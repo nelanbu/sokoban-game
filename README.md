@@ -3,6 +3,8 @@
 ## Overview
 This project is an implementation of the Sokoban game in C++, focusing on the use of classes, stacks, queues, and linked lists to manage game state and logic. Sokoban, meaning 'warehouse keeper' in Japanese, is a classic puzzle game where the player aims to move boxes to designated locations in a maze-like setting by pushing them around, adhering to specific game rules. This project is part of the Data Structures course at METU.
 
+![Sokoban](images/sokoban.png)
+
 ## Features
 
 - **Sokoban Game Logic:** Implements the Sokoban game with levels represented as 6x8 block puzzles. The game logic includes moving the player and boxes within the game constraints.
