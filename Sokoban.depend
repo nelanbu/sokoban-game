@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1605702847 source:c:\users\yagmu\desktop\441-data\tests\sokoban\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"include/StackQueue.h"
+	"include/StackQueue2.h"
+	"include/Sokoban.h"
+
+1605466949 source:c:\users\yagmu\desktop\441-data\tests\sokoban\src\stackqueue.cpp
+	"StackQueue.h"
+
+1605779916 c:\users\yagmu\desktop\441-data\tests\sokoban\include\stackqueue.h
+	<iostream>
+
+1605471460 source:c:\users\yagmu\desktop\441-data\tests\sokoban\src\doublylinkedlist.cpp
+
+1605475835 source:c:\users\yagmu\desktop\441-data\tests\sokoban\src\stackqueue2.cpp
+
+1605700809 c:\users\yagmu\desktop\441-data\tests\sokoban\include\stackqueue2.h
+	<iostream>
+
+1605703045 source:c:\users\yagmu\desktop\441-data\tests\sokoban\src\sokoban.cpp
+
+1605703077 c:\users\yagmu\desktop\441-data\tests\sokoban\include\sokoban.h
+	<iostream>
+	<string>
+	<fstream>
+
